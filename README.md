@@ -18,7 +18,7 @@ cd Nonunique-decompositions-of-mixed-states-and-deterministic-energy-transfers-s
 ```
 
 ### 2. Set Up the Environment
-It is recommended to use a virtual environment or an Anaconda environment. Install the required dependencies using `pip`:
+It is recommended to use a virtual environment or an Anaconda environment. QuTiP (Quantum Toolbox in Python) must also be installed. Install the required dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
 ```
