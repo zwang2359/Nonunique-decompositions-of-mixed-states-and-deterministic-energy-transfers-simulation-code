@@ -15,14 +15,14 @@ This project simulates the models we used as examples in the paper, such as Jayn
 ```bash
 git clone https://github.com/zwang2359/Nonunique-decompositions-of-mixed-states-and-deterministic-energy-transfers-simulation-code.git
 cd Nonunique-decompositions-of-mixed-states-and-deterministic-energy-transfers-simulation-code
+```
 
 ### 2. Set Up the Environment
 It is recommended to use a virtual environment or an Anaconda environment. Install the required dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
+```
 
----
-```markdown
 ## 📝 Citation
 If you use this code or simulation setup in your research, please cite our paper:
 
